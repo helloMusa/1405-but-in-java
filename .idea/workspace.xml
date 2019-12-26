@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d85cf968-1dbf-49fc-b83e-0b0553e0e412" name="Default Changelist" comment="" />
+    <list default="true" id="d85cf968-1dbf-49fc-b83e-0b0553e0e412" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1405-but-in-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1405-but-in-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VVSu6NAUfcWDzu8HAINDZUHjjz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,14 +31,75 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.HelloWorld" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\musa\Desktop\1405-but-in-java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.basicinput (2)">
+    <configuration name="basicinput (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.psets.pset01.basicinput" />
       <module name="1405-but-in-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="PATTERN" value="com.psets.pset01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basicinput (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.psets.pset02.basicinput" />
+      <module name="1405-but-in-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.psets.pset02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basicinput2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.psets.pset01.basicinput2" />
+      <module name="1405-but-in-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.psets.pset01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.psets.pset01.conversion" />
+      <module name="1405-but-in-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.psets.pset01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="volume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.psets.pset01.volume" />
+      <module name="1405-but-in-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.psets.pset01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -39,7 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.basicinput (2)" />
+        <item itemvalue="Application.volume" />
+        <item itemvalue="Application.conversion" />
+        <item itemvalue="Application.basicinput2" />
+        <item itemvalue="Application.basicinput (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -69,6 +143,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="1" key="#Project_Structure" timestamp="1577338263921">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="1" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1577338263921" />
+    <state x="390" y="161" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577337951603">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="390" y="161" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1577337951603" />
+    <state width="1204" height="148" key="GridCell.Tab.0.bottom" timestamp="1577342077158">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1204" height="148" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577342077158" />
+    <state width="1204" height="148" key="GridCell.Tab.0.center" timestamp="1577342077158">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1204" height="148" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577342077158" />
+    <state width="1204" height="148" key="GridCell.Tab.0.left" timestamp="1577342077157">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1204" height="148" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577342077157" />
+    <state width="1204" height="148" key="GridCell.Tab.0.right" timestamp="1577342077158">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1204" height="148" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577342077158" />
     <state x="313" y="1" key="search.everywhere.popup" timestamp="1577337082936">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
